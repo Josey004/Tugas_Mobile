@@ -1,13 +1,1 @@
 ini pertama
-
-<<<<<<< HEAD
-
-
-ketiga
-=======
-kedua
-
-ketiga
-
-keempat (harusnya balik main)
->>>>>>> kedua
